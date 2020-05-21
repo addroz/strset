@@ -1,3 +1,3 @@
 # strset
 
-Some sample of my work in C++ - university assignment
+Some sample of my work in C++ - university assignment (2019)
